@@ -52,17 +52,17 @@ body{
     cursor: pointer;
 }
 
-.task-container{
+/* .task-container{
     margin: 1rem 0;
     padding: 1rem 0;
-}
+} */
 .new-task{
     /* border: solid red; */
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 90%;
-    margin: auto;
+    margin: 1rem auto;
 }
 .new-task p{
     font-size: 1.2rem;
